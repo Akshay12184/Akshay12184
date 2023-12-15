@@ -5,7 +5,7 @@ im an mixed front end developer
 
 
 * 🌍  I'm based in Holland
-* 🧠  I'm learning New Frameworks and Javascript ,HTML , CSS , Python and trying to become an full stack developer
+* 🧠  I'm learning New Frameworks and how to work with them the main coding languages Javascript ,HTML , CSS , Python and trying to become an full stack developer recently we have been learning some new frameworks: bulma, foundation, tailwind and bootstrap.
 * 🤝  I'm open to collaborating on projects that intrest me
 
 # 💻 Tech Stack:
