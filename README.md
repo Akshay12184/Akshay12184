@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akshay Dhondai
 
 
-im an mixed front end developer
+im an front end developer
 
 
 * 🌍  I'm based in Holland
-* 🧠  I'm learning New Frameworks and how to work with them the main coding languages Javascript ,HTML , CSS , Python and trying to become an full stack developer recently we have been learning some new frameworks: bulma, foundation, tailwind and bootstrap.
+* 🧠  I'm learning New Frameworks and how to work with them the main coding languages Javascript ,HTML and CSS. im trying to become an full stack web developer. 
 * 🤝  I'm open to collaborating on projects that intrest me
 
 # 💻 Tech Stack:
