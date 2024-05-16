@@ -17,8 +17,7 @@ im an mixed front end developer
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 ---
-[![](https://visitcount.itsvg.in/api?id=frkyscience&icon=6&color=12)](https://visitcount.itsvg.in)
->
+
 
 <!---
 Akshay12184/Akshay12184 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
